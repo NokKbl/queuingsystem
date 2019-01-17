@@ -1,0 +1,10 @@
+As a Customer
+    I need to know the time that reaches my queue.
+    So that I can go everywhere that I want.
+
+As an Owner
+    I need to know what is the next order.
+    So that I can do it by following a queue.
+
+As an Owner
+    I need to let the customer know when they can get their ice cream.
