@@ -1,0 +1,10 @@
+User stories:
+
+1. As a customer,
+        I can choose any ice-cream flavors and types of ice-cream that I want to eat while I am at my room.
+
+2. As a customer,
+        I can see how many queue left (before my queue), so that I can find some seat to sit and wait (don't have to stand for a long time).
+
+3. As an ice-cream shop's owner,
+        I can show all ice-cream flavors and types of ice-cream that my shop have to the customers, so that they can see.
