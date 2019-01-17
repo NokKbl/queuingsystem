@@ -1,0 +1,10 @@
+As a Customer
+    I didn't want to wait for ice cream.
+    So basically I need to know how long should I wait before getting ice cream.
+
+As a Customer
+    The best thing about this is I can order from the smartphone. 
+
+As an Owner
+    If we know how many orders of ice cream. 
+    So we can show the time of getting ice cream to customers.
