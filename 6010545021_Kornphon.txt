@@ -1,0 +1,12 @@
+User stories
+As an owner
+	I can submit specific flavored of ice-cream which available to sell in ice-cream shop into the application. Also, the customer can’t order the flavored of ice-cream if it sold-out.
+
+As an owner 
+	I can submit a profile of ice-cream shop, open time and close time into the application. I can limit the time to not accept the order.
+
+As an owner
+	I can limit amount of order which accept in length of time. I can noticed the customer if the time that the customer want to get the ice-cream must be postpone to be in queue which the customer needs to wait more time(specific what time) to get ice-cream(in queue). For example, the owner limit to the maximum order in every 5 minutes per 10 queues. The 11-th queue of the time in this length will be noticed to customer. So the order will be postponed.
+
+As a customer
+       I can submit and order specific flavored, size, and amount of ice-cream. Also, I can submit the time to get the ice-cream in time.
