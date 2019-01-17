@@ -1,0 +1,12 @@
+As a customer
+I can order an ice-cream when I am living at home or everywhere.
+So that I can manage the time to get an ice-cream and I can know how long to get the ice-cream.
+
+As an owner
+I can know how many ice-cream in queue.
+So that I can manage the time to delivery.
+
+As an owner
+I can limit the order per day.
+So that I can know how much ice-cream is sold and I can manage
+ingredient to user per day.
