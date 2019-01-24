@@ -1,21 +1,26 @@
 User stories
 As an owner
-	I can submit specific flavored of ice-cream which available to sell in ice-cream shop into the application. Also, the customer can't order the flavored of ice-cream if it sold-out.
+	I can submit/update specific flavored of ice-cream which available to sell in ice-cream shop into the application(the ice-cream not out-of-stock). Also, the customer can't order the flavored of ice-cream if it sold-out.
+	So that I don't need to tell the customer when any flavoured are out-of-stock or not.
 	1) The product shall identify the type of ice-cream to the staff.
 	2) The product shall mark which flavoed are sold-out by staff. 
 	3) The product shall update the status of ice-cream immediately(sold-out, on-sale, discount).
 As an owner 
 	I can submit a profile of ice-cream shop, open time and close time into the application. I can limit the time to not accept the order.
+	So that I don't need to reject the order by myself.
 	1) The product shall show the details of the shop to the customer by real-time.
 	2) The product shall be set the opened-closed time to accept the order.
 	3) The product shall reject the order if the order is coming when the store is closed.
 As an owner
-	I can limit amount of order which accept in length of time. I can noticed the customer if the time that the customer want to get the ice-cream must be postpone to be in queue which the customer needs to wait more time(specific what time) to get ice-cream(in queue). For example, the owner limit to the maximum order in every 5 minutes per 10 queues. The 11-th queue of the time in this length will be noticed to customer. So the order will be postponed.
+	I can limit amount of order which accept in length of time. I can noticed the customer if the time that the customer want to get the ice-cream must be postpone to be in queue which the customer needs to wait more time(specific what time) to get ice-cream(in queue).
+	For example, the owner limit to the maximum order in every 5 minutes per 10 queues. The 11-th queue of the time in this length will be noticed to customer. So the order will be postponed.
+	So that I can manage and done the order in time. Also, I don't need to postpone the order by myself.
 	1) The product shall tells the customer immediately if the time that customer reserve are crowed around to postpone that order.
 	2) The product shall be identify by owner/staff the number of order can be accept in length of any time.
 	3) The product shall deduct the money in the account of the customer if the customer don't come to get an ice-cream.
 As a customer
     I can submit and order specific flavored, size, and amount of ice-cream. Also, I can submit the time to get the ice-cream in time.
+	So that I can order the ice-cream and don't need to wait for a long time. I can go to ice-cream shop and get the ice-cream immediately.
 	1) The product shall show the type of flavored, size, amount of ice-cream to customer.
 	2) The product shall reserve the time to get the ice-cream.
 	3) The product shall notify the customer if the ice-cream is ready-to-serve when the customer don't come in time.
