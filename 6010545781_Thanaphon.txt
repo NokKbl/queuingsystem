@@ -2,11 +2,22 @@ As a customer
 I can order an ice-cream when I am living at home or everywhere.
 So that I can manage the time to get an ice-cream and I can know how long to get the ice-cream.
 
-As an owner
+1) The product shall show all ice-cream item to customer.
+2) The product shall show the time to receive the ice-cream to customers.
+3) The product shall have a platform for smartphone/web application to customer.
+
+As an staff
 I can know how many ice-cream in queue.
 So that I can manage the time to delivery.
 
-As an owner
+1) The product shall show all orders from the customer.
+2) The product shall show the names of the customer to only the authorized staff.
+3) The product shall remove the order that made already from the customer.
+
+As an staff
 I can limit the order per day.
-So that I can know how much ice-cream is sold and I can manage
-ingredient to user per day.
+So that I can know how much ice-cream is sold and I can manage ingredient to user per day.
+
+1) The product shall update the queue real time to staff.
+2) The product shall show an alert when the order is almost max or max per day for staff.
+3) The product shall notify when it is limit the order to the customer.
