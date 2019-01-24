@@ -1,10 +1,32 @@
 User stories:
+<<< Story 1 >>>
+As a customer,
+I can order any flavors and types of ice-cream that I want to eat while I am at my room,
+so that I don't need to go to the shop and wait for a long time.
 
-1. As a customer,
-        I can choose any ice-cream flavors and types of ice-cream that I want to eat while I am at my room.
+Requirements:
+        1) The product shall list flavors and types of the ice-cream to the customers.
+        2) The product shall be portable to all devices.
+        3) The product shall make/remove order online and show to the ice-cream shop.
 
-2. As a customer,
-        I can see how many queue left (before my queue), so that I can find some seat to sit and wait (don't have to stand for a long time).
 
-3. As an ice-cream shop's owner,
-        I can show all ice-cream flavors and types of ice-cream that my shop have to the customers, so that they can see.
+<<< Story 2 >>>
+As a customer,
+I can see how many queue left (before my queue),
+so that I can find some seat to sit and wait (don't have to stand for a long time).
+
+Requirements:
+        1) The product shall show the present queue number to the cashier and all customers (that waiting).
+        2) The product shall update the queue number that can get the ice-cream real-time to the cashier and the customers.
+        3) The product shall notify the customer when there're only one qeue berfore their queue.
+
+
+<<< Story 3 >>>
+As an ice-cream shop's owner,
+I can show all flavors and types of ice-cream that my shop have to the customers,
+so that they can easily see what flavors and types of ice-cream my shop have.
+
+Requirements:
+        1) The product shall update the new flavors and types of ice-cream that the shop have as soon as possible to the customers.
+        2) The product shall remove the flavors and types of ice-creams that doesn't exist in the shop anymore to the customers.
+        3) The product shall show the editable list of flavors and types of ice-creams to only the ice-cream shop's owner.
