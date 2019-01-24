@@ -1,10 +1,23 @@
 As a Customer
-    I didn't want to wait for ice cream.
-    So basically I need to know how long should I wait before getting ice cream.
+I can know how long should I wait for ice cream so that I didn't stand in the queue.
+    
+    Requirements
+        1) The product shall show that time of ice cream is finished.
+        2) The product shall confirm customer to take ice cream in time.
+        3) The product shall notify the customer in their smartphone.
 
 As a Customer
-    The best thing about this is I can order from the smartphone. 
+I can order ice cream from anywhere I want so that I can take ice scream right away when it's time.
+
+    Requirements
+        1) The product shall find ice cream that has in the shop.
+        2) The product shall take an order of ice cream from the application.
+        3) The product shall update the queue real-time as soon as order finish.
 
 As an Owner
-    If we know how many orders of ice cream. 
-    So we can show the time of getting ice cream to customers.
+I can know how many orders of ice cream so that we can show the time of getting ice cream to customers.
+
+    Requirements
+        1) The product shall take an order of ice cream from the application.
+        2) The product shall show time that ice cream is finish.
+        3) The product shall notify the customer in there smartphone.

@@ -1,17 +1,25 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1671
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset222 Thonburi;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+As a customer
+I can get ice-cream on time. I don't want to wait in front of the shop.
 
-\f0\fs24 \cf0 As a customer\
-I can get ice-cream on time. I don\'92t want to wait in front of the shop.\
-\
-As an owner\
-I can check that customer will come in 
-\f1 how many minutes left.  I don\'92t want to serve a melted ice-cream to customer. For example, there is 1 customer in the first queue, but he\'92ll come in 20 minutes. If I prepare this order now, it\'92ll melt before customer come in.\
-\
-As a customer\
-I can know that my order is available or not such as flavour is out of stock, can\'92t prepare ice-cream on time, suggest what time I should get ice-cream.\
-}
+1) The product shall show status step by step such as waiting >> preparing >> finish.
+2) The product shall have a notification when orders are ready to serve.
+3) The product shall have a notification and approximate waiting time(example: late 5 minutes) 
+   when there are some problems and ice-cream can't serve on time.
+
+As an owner
+I can check that customer will come in how many minutes left. I don't want to serve a melted ice-cream to customer. 
+For example, there is 1 customer in the first queue, but he come in 20 minutes. 
+If I prepare this order now, it'll melt before customer come in.
+
+1) The product shall have a text area to fill the time that customers want to get their orders.
+2) The product shall calculate how many minutes left that customer will come in by using their location, distance, and speed.
+   Then, show this time in the order's details. 
+3) The product shall has notification when customer is near the store.
+
+As a customer
+I can know that my order is available or not such as flavour is out of stock, 
+can't prepare ice-cream on time, suggest what time I should get ice-cream.
+
+1) The product shall show status that orders are available or not after customer choose each order.
+2) The product shall show a mark(or disable flavor button) when the flavour is out of stock.
+3) The product shall suggest properly serve time. 

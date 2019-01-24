@@ -1,10 +1,27 @@
 As a Customer
-    I need to know the time that reaches my queue.
+    I can know the time that reaches my queue.
     So that I can go everywhere that I want.
 
-As an Owner
-    I need to know what is the next order.
-    So that I can do it by following a queue.
+    Requirements (functional, non-functional)
+        1) The product shall show how many queues until the reach customer's queue.
+        2) The product shall have a platform for smartphone or web application.
+        3) the product shall update the queue real-time as soon as order finish.
 
 As an Owner
-    I need to let the customer know when they can get their ice cream.
+    I can know what is the next order.
+    So that I can do it by following a queue.
+
+    Requirements (functional, non-functional)
+        1) The product shall show the next order.
+        2) The product shall remove order that has already finished or customer cancel.
+        3) the product shall send a notification to Shop if the customer cancels the order.
+
+As an Owner
+    I can send notidication to the customer know when their order already finish.
+    So that they can need to wait in front of shop
+
+    Requirements (functional, non-functional)
+        1) The product shall send a notification to the customer.
+        2) The product shall have the platform on a smartphone or web application.
+        3) the product shall update the queue real-time as soon as order finish.
+    
