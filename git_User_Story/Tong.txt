@@ -1,0 +1,36 @@
+(clone)
+As a developer
+I can download files from GitHub repository,
+so that I can edit it.
+
+use case:
+    >> Download files.
+
+(Branching)
+As a developer
+I can create new branch for new features,
+so that I add new features.
+
+use case:
+    >> Create a new brance in your local repository.
+    >> Add the files in your new local repository.
+    >> Commit the files that you have staged in your local repository.
+    >> Push the new branch in your local repository to GitHub.
+
+(push)
+As a developer
+I can upload a file to a repository,
+so that my teammate can download it.
+
+use case:
+    >> Add the files in your new local repository.
+    >> Commit the files that you have staged in your local repository.
+    >> Push the changes in your local repository to GitHub.
+
+(pull)
+As a developer
+I can update my local repository,
+so that my local repository is updated.
+
+use case:
+    >> Pull a repository from GitHub to your local repository.
