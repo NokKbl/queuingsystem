@@ -1,0 +1,38 @@
+Kornphon	Noiprasert	6010545021
+
+User story:
+As a developer,
+	I can save the file on somewhere else and I can work easily/freedom in my computer. If the files which I'm working are broken or hard to repair like original, so that I can download the original file from somewhere that I stored on it.
+Use cases:
+-	The product shall be restore previous or any version that I already saved(git reset).
+-	The product shall be edit/reset if I already saved.
+-	The product shall give developers a copy version of files(Clone the project).
+-	Git push(To save the works/files to the internet).
+
+As a developer,
+	I can separate my work with co-worker as a teammate like features, fixed, and core of the project, so that we can update/merge work and features to the main repository easily.
+Use cases:
+-	The product shall be seperate part of the developers want to do like features, fixed, core of the project (Branching). 
+-	The product shall be bind the work together if it isn't conflict(Merging).
+-	The product shall ask the other collaborators to merge the files or not(Pull request).
+-	Git pull(for update the work are the same version with the internet.
+-	The product shall warning if my work and co-workers work on the internet can not bind together (conflicts-> they are not on the same version).
+
+As a developer,
+	I can see the works/files on my computer and my resources on the internet all the old versions which I saved, so that I can view/edit the history of my work easily.
+Use cases:
+-	Git status - to show what files that are not the same version with on the internet.
+-	Git add/commit
+-	The product shall be view the history what you had push(git log).
+-	The product shall be viewed on the internet what version I pushed the work. 
+	
+As a developer,
+	I can make a copy from other developers to my account, so that I can learn and work with that starter of his files in my own version.
+Use cases:
+-	The product can give the developers a resources from other devlopers and can work on his/her own version (forking). 
+
+As a developer,
+	I can identify and marking each time I saved the work on the internet, so that I can view all old version of the files easily and pin any works to find it easily.
+Use cases:
+-	The product shall marked like pins in the history (git tag).
+-	Git commit(To identify with words you had, helps developer what work had changed on each time).
