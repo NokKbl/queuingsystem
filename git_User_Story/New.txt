@@ -1,0 +1,25 @@
+As a developer
+I can add timer feature to project clock application.
+So that clock application is more useful.
+
+>>git clone: download repository to local.
+>>git branch: a separate local repository for feature.
+>>git add: add the file to the local repository.
+>>git commit: save the file to a new commit and describe the changes.
+>>git push: push code to GitHub repository.
+
+
+
+As a developer
+I can tag a version when our app ship to market.
+So that we can check our code easily.
+
+>>git tag: tag to represent a version of a particular branch.
+
+
+
+As a developer
+I can fix bugs by modifying the team's code.
+So that we can finish the project.
+
+>>git pull: update the latest repository to local.
