@@ -1,0 +1,16 @@
+As a Developer
+    I want to upload a file to my repository.
+    So that my team can download it.
+>> git add : Add the files in your new local repository.
+>> git commit : Commit the files that you've staged in your local repository.
+>> git push : Push the changes in your local repository to GitHub.
+
+As a Developer
+    I want to download the team's code.
+    So that I can change it.
+>> git clone : download code of repository
+
+As a Developer
+    I want to update the team's code without clone it again.
+So that I don't need to open a team's repository
+>> git pull : update local repository
