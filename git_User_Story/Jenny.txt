@@ -1,0 +1,30 @@
+(merge)
+As a developer
+I can work with others without overlapping files. For example, I edit a file in the project while my teamate is editing the same file.
+When we merge our works together, we'll get some warnings to choose one of these or keep both files.<conflicts>
+
+As a developer
+I can work on my own works without waiting others finish their hold works, then we'll merge together after whoever finish the works.
+
+use cases:
+  - 
+
+(branch)
+As a developer
+When my project has a lot of features to do and I have to develop a new feature, I don't want my teamates able to edit my files.
+I can finish my works on my local computer(seperate with other features), it'll protect my works from other features troubles.
+
+(issue)
+As a developer
+I can note about what I have to do or what I have to fix. For example, before I do my project, I have to make some to do list 
+and when I finish the task, I can check as done. Sometimes after I run testing file, it'll have some errors, I want some places
+to mark this, then I won't forget what I have to do and I can estimate the time to finish my works.
+
+(insight)
+As a developer
+I can know my teamates branch actions such as, merge which branch into which branch, what's date that they create the branch, or
+the branch is sub branch of which branch.
+
+(reset)
+As a developer
+I can reset my work to any steps of my commits.
