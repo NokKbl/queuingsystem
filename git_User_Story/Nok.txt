@@ -1,0 +1,40 @@
+<<< Story 1 >>>
+User Story:
+    As a developer,
+        I can let my friend see the progress of my work,
+        so that they will know what I did.
+
+Use cases:
+    - Developer X add and commit work (with some message) to Git.
+    - Developer X push work.
+
+
+<<< Story 2 >>>
+User Story:
+    As a developer,
+        I can do my work anywhere and update them,
+        so that I can continue my work and finish faster.
+
+Use cases:
+    - Developer X clone the project.
+    - Developer X add and commit work to Git.
+    - Developer X push work.
+
+
+<<< Story 3 >>>
+User Story:
+    As a developer,
+        I can show the feature that I think it's good for a project to other developers,
+        so that the project may have better version.
+
+Use cases:
+    - Developer X fork the project.
+    - Developer X create branch for the feature.
+    - Developer X add and commit work to Git.
+    - Developer X push branch and work.
+    - Developer X open pull request.
+    - Developer Y merge the request to master branch.
+        - If the system reports conflict, the Developer Y notify the Developer X to
+            resolve the conflict and push edited work and let Developer Y merge again.
+        - If there's no conflict reported by the system, the Developer Y merge the
+            feature to the master branch.
