@@ -40,6 +40,7 @@ As a developer
 I can know my teamates branch actions such as, merge which branch into which branch, what's date that they create the branch, 
 or the branch is sub branch of which branch.
 
+--------------------------------------------------------------------------------------------------------------------------
 (reset)
 As a developer
 I can reset my work to any steps of my commits.
